@@ -1,5 +1,5 @@
 # Node class
-# T.C = O(n)
+# T.C = O(N)
 class Node:
 
     # Function to initialise the node object
